@@ -1,9 +1,3 @@
 # unpaid_care_data_science-INF6027-
-# Introduction
-1. brief intro
-   asdfasdfsadfasdfasf
-* brief intro
-- brief intro
-  |colum A| colum B|
-  |-------|--------|
-  |abcdefg|hrjklmn|
+# Get started
+R and R studio need to be downloaded from the official websites. Firstly, we need to install packages that we used in this study including tidyverse and survey. There are 3 GitHub repositories showing the R codes for this study, they are R_code_vis1. Rhistory shows the code for stacked bar charts; data_vis2.Rhistory shows the code for groups of pie charts and regression_code.Rhistory shows the code for the regression. Data will need to be downloaded locally first to read into R studio. This study used theUK 2021 and 2011 census data , which can be accessed from this link: Census - Office for National Statistics. There are comments starting with “#” in each R code file to illustrate the instructions and purpose for each code.
